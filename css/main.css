@@ -29,5 +29,11 @@ margin-bottom:25px;
 }
 
 a{
-  color:#
+  color:#f85c37;
+}
+
+a:hover, a:focus{
+  color:#7b7b7b;
+  text-decoration: none;
+  outline: none;
 }
